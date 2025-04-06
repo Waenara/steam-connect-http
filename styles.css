@@ -1,0 +1,20 @@
+body {
+    background-color: #24273a;
+    color: #cad3f5;
+    font-family: 'Inter', sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1, p {
+    margin: 5px;
+}
+
+p {
+    color: #b8c0e0;
+}
